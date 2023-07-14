@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Text/Soup.txt</file>
+        <file>Text/SoupExamination.txt</file>
+        <file>Text/Sword.txt</file>
+        <file>Text/TestText.txt</file>
+        <file>Text/Examinations/SoupExamination.txt</file>
+        <file>Text/Examinations/Character Dialogue/Butler Dialogue.txt</file>
+        <file>Text/Examinations/Character Dialogue/Gardener Dialogue.txt</file>
+        <file>Pictures/Butler.jpg</file>
+        <file>Pictures/GardenerPic.jpg</file>
+        <file>Pictures/HamsterPic.jpg</file>
+        <file>Pictures/Map.png</file>
+        <file>Text/Examinations/Character Dialogue/Hamster Dialogue.txt</file>
+        <file>door_creak_closing.wav</file>
+        <file>Text/MainLobbyDescription.txt</file>
+    </qresource>
+</RCC>
